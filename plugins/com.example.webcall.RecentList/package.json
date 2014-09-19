@@ -1,0 +1,9 @@
+{
+    "version": "2.9.0",
+    "name": "com.example.webcall.recentlist",
+    "cordova_name": "RecentList",
+    "platforms": [
+        "android"
+    ],
+    "engines": []
+}

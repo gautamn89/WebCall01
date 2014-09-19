@@ -1,0 +1,9 @@
+{
+    "lib": {
+        "www": {
+            "id": "com.example.webcall",
+            "version": "3.5.0",
+            "uri": "https://github.com/gautamn89/WebCall01/archive/master.zip"
+        }
+    }
+}
